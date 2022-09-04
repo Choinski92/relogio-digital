@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Relogio Digital", "Relogio Digital\Relogio Digital.pyproj", "{B83E1891-0544-476A-B6B9-D03DC01844EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83E1891-0544-476A-B6B9-D03DC01844EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83E1891-0544-476A-B6B9-D03DC01844EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48EC7B1-BE02-406D-A6B1-83303CBF290C}
+	EndGlobalSection
+EndGlobal
